@@ -12,7 +12,7 @@ Results:
 #### Results
 Perhaps underwhelmingly, the analysis shows that there is generally little variation in the temperatures between June and December. 
 
-[Images]
+![Summary Statistics for June](https://github.com/veachk90/surfs_up/blob/main/June_Temps_Summary.png) ![Summary Statistics for December](
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
